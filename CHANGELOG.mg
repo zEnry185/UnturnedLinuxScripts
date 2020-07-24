@@ -1,3 +1,6 @@
-###v0.0.1
+# Unturned Linux Scripts Changelog
 
-- Initial release
+
+## 0.0.1
+
+Initial Release
