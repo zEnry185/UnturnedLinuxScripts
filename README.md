@@ -1,5 +1,7 @@
 # Unturned Linux Scripts
 
+## This project is not being maintained anymore. Therefore this repository is available in read-only mode.
+
 Linux scripts to automate install and the update of an Unturned Server.
 
 ---------------------------------------
